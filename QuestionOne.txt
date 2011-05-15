@@ -1,0 +1,22 @@
+Question 1:  "How many pennies could you put on the Golden Gate Bridge without any of them overlapping?" 
+ 
+ 
+First thing to take care of is figure out how long and wide the Golden Gate Bridge is. 
+ 
+According to Google it's: 
+Width: 27.4m 
+Length: 2700m 
+ 
+Second thing to figure out is the radius of an American penny. If we assume that a penny is a square with the radius of the penny's dimension, we can accurately determine how many pennies fit on the bridge. The extra area created by assuming the pennies are squares is negligible as that area would of been wasted regardless. 
+ 
+According to Google it's: 
+Radius: 0.00953m 
+ 
+Now using this, we can determine how many pennies would fit across the width and how many would fit across the length of the bridge. The multiplication of these two numbers would then determine how many pennies would cover the area of the bridge. It is the same as measuring two lengths in meters and multiplying to determine area, however in this case our units would be in pennies squared. 
+ 
+Width divided by radius: 2875.131, ignoring the decimals we have 2875 pennies across. 
+Length divided by radius: 283315.845, ignoring the decimals we have 283315 pennies down. 
+ 
+Therefore the amount of pennies that would cover the golden gate bridge is: 814530625 
+ 
+Note: although you might think multiplying 814 530 625 by (0.00953 squared) gives you the area of the bridge, it by definition cannot as the rounding down done in order to fit "whole" pennies eliminates the chance of getting the true area. 73976.4044 is the answer received by doing the above multiplication while the width and length multiplied returns 739800 which yields a loss in area of about 3.5 kilometers  squared, which still does not represent how much free space we have as we are still assuming that pennies and squares of dimensions equal to its radius cover the same area, which they obviously do not.
