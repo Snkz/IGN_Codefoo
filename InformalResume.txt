@@ -1,0 +1,23 @@
+Abdi Dahir's informal Resume. 
+ 
+    If it's informal, I hope you won't mind me writing in first person! Well anyway, my name is Abdi, full name is Abdiasis, but as you can tell that's a bit complicated so I go by the former handle. I'm a 19 turning 20 university student that has just completed their second year of a Computer Science (Artificial Intelligence) Specialist at Canada's top school, the University of Toronto. As a student I get very little chance to experience real-world type work and as such enjoy reaching out and taking advantage of opportunities such as this. Don't take me for a slouch though, I do not sit around and study only, In class assignments have more then prepared me for small scale work and even outside school I attempt in engaging in programming projects. A good example is that of a small company me and a group of students have started up known as KwilDev. Sure it has gone no where, but it does show my interest in work. The website http://www.kwildev.com/ is fully functioning and the web page was fully designed and written by yours truly! It's no IGN and it reeks of amateur design but it is a start and to be honest that's also exactly what I'm looking for from you guys, a way to introduce myself to the real world. 
+ 
+My programming languages include: 
+ - C 
+ - Shell Scripting 
+ - Java 
+ - Flash CS2 (Outdated Sadly) 
+ - Python 
+ - HTML/XML/CSS 
+ 
+My previous working experience involves: 
+ - A assistant contractor at Adale Contractors 
+ - A hot walker and general horse care at Woodbine Racetrack 
+ - Cashier and Store Assistant at Rexall Center for 2008 ATP World Tour Tennis Tournament 
+ - Co-op at a small web soloutions company known as R&B Web Solutions Inc. 
+ 
+General Interests: 
+ - Physics, this may seem broad but I do really enjoy the science as a whole and intend to minor in it. 
+ - Video Gaming, which probably comes as no surprise. 
+ - Soccer, I love keeping active and soccer has always been my favourite (Canadian's use 'u') sport. 
+ - Programming, Also a no brainer. 'Hello World'  
