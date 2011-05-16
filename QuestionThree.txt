@@ -1,0 +1,22 @@
+Question 3 part 1: "What is the minimum number of moves required for a knight to cover the entire chess board?"
+
+The minimum amount of moves, assuming the position you start at is covered for n by m chess board is n*m - 1. For an 8 by 8 chess board, the answer is 63.
+
+Question 3 part 2: "Write a program to prove it."
+
+The included java file has the solution program written in java. It takes arguments from the command line but when run with none defaults to a 8 by 8 board starting at (0,0). It prints out a single solution an example of which for an 8 by 8 board is.
+
+ | 01 | 04 | 57 | 20 | 47 | 06 | 49 | 22 |
+ | 34 | 19 | 02 | 05 | 58 | 21 | 46 | 07 |
+ | 03 | 56 | 35 | 60 | 37 | 48 | 23 | 50 |
+ | 18 | 33 | 38 | 55 | 52 | 59 | 08 | 45 |
+ | 39 | 14 | 53 | 36 | 61 | 44 | 51 | 24 |
+ | 32 | 17 | 40 | 43 | 54 | 27 | 62 | 09 |
+ | 13 | 42 | 15 | 30 | 11 | 64 | 25 | 28 |
+ | 16 | 31 | 12 | 41 | 26 | 29 | 10 | 63 |
+
+The numbers represent the order in which the squares were reached.
+
+Question 3 part 3: "Provide a graph with the move number on the x axis and the number of squares covered on the y axis"
+
+As each movement covers one more square, the solution is linear. As you start with one square already covered, the graph is of the form f(x) = x + 1. The submitted image file shows the graph.
