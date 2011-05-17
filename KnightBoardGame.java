@@ -310,7 +310,7 @@ public class KnightBoardGame {
                 return;
             }
         }
-		if(!(xpos < width) || !(ypos < width)) {
+	if(!(xpos < width) || !(ypos < width)) {
             System.err.println("Bounds Error: x,y coordinates invalid");
             return;
         }
