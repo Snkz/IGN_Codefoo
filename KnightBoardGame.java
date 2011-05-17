@@ -29,7 +29,7 @@ public class KnightBoardGame {
 
     /**
      * Init a brand new Knight Board Game with no prior sequence. 
-     * @param height, the integer height of the board .
+     * @param height, the integer height of the board.
      * @param width, the integer width of the board.
      * @param xposition, the current integer position of the knight.
      * @param yposition, the current integer position of the knight.
@@ -49,7 +49,7 @@ public class KnightBoardGame {
 
     /**
      * Init a Knight Board Game starting with a previous board and sequence.
-     * @param height, the integer height of the board .
+     * @param height, the integer height of the board.
      * @param width, the integer width of the board.
      * @param xposition, the current integer position of the knight.
      * @param yposition, the current integer position of the knight.
@@ -96,7 +96,7 @@ public class KnightBoardGame {
     }
 
     /**
-     * Return a whether the specified move is possible.
+     * Return whether the specified move is possible.
      * @param xpos, the current integer x coordinate.
      * @param ypos, the current integer y coordinate.
      * @param x, the integer value of the current xpos intended offset.
